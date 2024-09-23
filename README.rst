@@ -80,7 +80,8 @@ API Endpoints
 
 Usage Examples
 ------------------------------------------------------------------------------
-- https://github.com/MacHu-GWU/unstructured_as_api-project/blob/main/docs/source/01-Example-Usage/index.ipynb
+- `Fast API entry point <https://github.com/MacHu-GWU/unstructured_as_api-project/blob/main/main.py>`_
+- `Usage example (notebook) <https://github.com/MacHu-GWU/unstructured_as_api-project/blob/main/docs/source/01-Example-Usage/index.ipynb>`_
 
 
 .. _install:
